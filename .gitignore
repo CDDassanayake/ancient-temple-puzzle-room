@@ -1,0 +1,21 @@
+# ---- Code::Blocks ----
+*.depend
+*.layout
+*.cbTemp
+
+# ---- Build output ----
+bin/
+obj/
+*.exe
+*.o
+*.obj
+*.out
+
+# ---- OS junk ----
+.DS_Store
+Thumbs.db
+
+# ---- Editor/IDE ----
+.vscode/
+*.suo
+*.user
